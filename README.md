@@ -7,5 +7,5 @@ There is little error handling here, as this is intended to be mostly a demonstr
 
 Note: You will not be able to use a UniFi cloud account to access the Protect device, instead you’ll need a local account which does not require 2-factor authentication.
 
-Other note: This has only been tested against a CloudKey Gen2 Plus. In theory this should also work against a Network Video Recorder or Network Video Recorder Pro. If you wanna send me one, I’d be happy to confirm 😉
+Other note: This has only been tested against a CloudKey Gen2 Plus. In theory this should also work against a Dream Machine or Dream Machine Pro, Network Video Recorder or Network Video Recorder Pro. If you wanna send me one, I’d be happy to confirm 😉
 
